@@ -11,6 +11,9 @@
 
 * [Directed Graphs](http://algs4.cs.princeton.edu/42digraph/)
 
+##### HTML
+* [HTML5 imports](http://www.html5rocks.com/en/tutorials/webcomponents/imports/)
+
 ### Frameworks
 #####Angular
 
