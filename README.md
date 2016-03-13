@@ -24,7 +24,17 @@
 
 #####Ember
 
-
+### Podcasts
+###### Apps
+* [PocketCasts](https://play.pocketcasts.com/) - [iOS](https://itunes.apple.com/au/app/pocket-casts/id414834813?mt=8&ign-mpt=uo%3D4) [android](https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts&hl=en)
+###### Casts
+* [Javascript Jabber](https://devchat.tv/js-jabber/)
+* [Javascript Air](http://javascriptair.com/)
+* [The Changelog](https://changelog.com/)
+* [Turing Incomplete](http://turing.cool/)
+* [Software Engineering Daily](http://softwareengineeringdaily.com/)
+* [Adventures in Angular](https://devchat.tv/adventures-in-angular)
+* [React Native Radio](https://devchat.tv/react-native-radio)
 
 ### Questions/Problems
 
